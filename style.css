@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image:url(https://4.bp.blogspot.com/-S_WLJvLJ0_8/T7qQjj2fQiI/AAAAAAAADhE/tbsGT-Ro0KQ/s1600/Speed_precise+by+pr09studio.jpg); background-repeat: no-repeat; background-size:100%;
+}
+
+.clock {
+    background-color: #492dae;
+    padding: 40px;
+  color:#fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.time {
+    font-size: 2rem;
+    text-align: center;
+}
